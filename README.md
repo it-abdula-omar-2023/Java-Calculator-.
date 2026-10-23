@@ -1,24 +1,23 @@
-# Java-Calculator-. 
-# حسابة الجافا.
+# Java Calculator
 
-هذا مشروع لجهاز الحاسبة الرياضيات يعمل يف لغة الجافا .
+This is a mathematical calculator project implemented in the Java programming language.
 
-# المميزات
+# Features
 
-يمكنك القيام بالعمليات الحسابية فيه : الجمع - الطرح - الضرب - القسمة 
+You can perform the following arithmetic operations: addition, subtraction, multiplication, and division.
 
-الحماية من القسمة على الصفر
+Includes protection against division by zero.
 
-## كيفية التشغيل
+## How to Run
 
-1. تأكد من تثبيت Java JDK.
-2. قم بتشغيل الأمر التالي 컴بايل للكود:
-   ```bash
-   javac Calculator.java
-   ```
-3. شغّل البرنامج:
-   ```bash
-   java Calculator
-   ```
+1. Ensure that the Java JDK is installed.
+2. Compile the code by running the following command:
+```bash
+javac Calculator.java
+```
+3. Run the program:
+```bash
+java Calculator
+```
 
-   # اعداد الطالب : عبد الله عمر عبد العزيز .
+# Prepared by: Abdullah Omar Abdul Aziz
